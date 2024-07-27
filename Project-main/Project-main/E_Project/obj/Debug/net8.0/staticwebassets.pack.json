@@ -1,0 +1,1181 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\E_Project.bundle.scp.css",
+      "PackagePath": "staticwebassets\\E_Project.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\User\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\css\\flexslider.css",
+      "PackagePath": "staticwebassets\\User\\css\\flexslider.css"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\User\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\css\\lightbox.css",
+      "PackagePath": "staticwebassets\\User\\css\\lightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\css\\style.css",
+      "PackagePath": "staticwebassets\\User\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\User\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\User\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\User\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\User\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\User\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\User\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\User\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\User\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\User\\images\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\images\\bg1.jpg",
+      "PackagePath": "staticwebassets\\User\\images\\bg1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\images\\close.png",
+      "PackagePath": "staticwebassets\\User\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\images\\g1.jpg",
+      "PackagePath": "staticwebassets\\User\\images\\g1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\images\\g2.jpg",
+      "PackagePath": "staticwebassets\\User\\images\\g2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\images\\g3.jpg",
+      "PackagePath": "staticwebassets\\User\\images\\g3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\images\\g4.jpg",
+      "PackagePath": "staticwebassets\\User\\images\\g4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\images\\g5.jpg",
+      "PackagePath": "staticwebassets\\User\\images\\g5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\images\\g6.jpg",
+      "PackagePath": "staticwebassets\\User\\images\\g6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\images\\g7.jpg",
+      "PackagePath": "staticwebassets\\User\\images\\g7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\images\\g8.jpg",
+      "PackagePath": "staticwebassets\\User\\images\\g8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\images\\icon.png",
+      "PackagePath": "staticwebassets\\User\\images\\icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\images\\img-sprite.png",
+      "PackagePath": "staticwebassets\\User\\images\\img-sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\images\\img1.jpg",
+      "PackagePath": "staticwebassets\\User\\images\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\images\\img2.jpg",
+      "PackagePath": "staticwebassets\\User\\images\\img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\images\\img3.jpg",
+      "PackagePath": "staticwebassets\\User\\images\\img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\User\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\images\\move-up.png",
+      "PackagePath": "staticwebassets\\User\\images\\move-up.png"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\images\\t1.jpg",
+      "PackagePath": "staticwebassets\\User\\images\\t1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\images\\t2.jpg",
+      "PackagePath": "staticwebassets\\User\\images\\t2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\images\\t3.jpg",
+      "PackagePath": "staticwebassets\\User\\images\\t3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\images\\t4.jpg",
+      "PackagePath": "staticwebassets\\User\\images\\t4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\images\\t5.jpg",
+      "PackagePath": "staticwebassets\\User\\images\\t5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\images\\t6.jpg",
+      "PackagePath": "staticwebassets\\User\\images\\t6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\images\\t7.jpg",
+      "PackagePath": "staticwebassets\\User\\images\\t7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\js\\SmoothScroll.min.js",
+      "PackagePath": "staticwebassets\\User\\js\\SmoothScroll.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\User\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\js\\easing.js",
+      "PackagePath": "staticwebassets\\User\\js\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\js\\easyResponsiveTabs.js",
+      "PackagePath": "staticwebassets\\User\\js\\easyResponsiveTabs.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\js\\jarallax.js",
+      "PackagePath": "staticwebassets\\User\\js\\jarallax.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\js\\jquery-2.2.3.min.js",
+      "PackagePath": "staticwebassets\\User\\js\\jquery-2.2.3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\js\\jquery.fireworks.js",
+      "PackagePath": "staticwebassets\\User\\js\\jquery.fireworks.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\js\\jquery.flexslider.js",
+      "PackagePath": "staticwebassets\\User\\js\\jquery.flexslider.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\js\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\User\\js\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\js\\lightbox-plus-jquery.min.js",
+      "PackagePath": "staticwebassets\\User\\js\\lightbox-plus-jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\js\\moment-timezone-with-data.js",
+      "PackagePath": "staticwebassets\\User\\js\\moment-timezone-with-data.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\js\\moment.js",
+      "PackagePath": "staticwebassets\\User\\js\\moment.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\js\\move-top.js",
+      "PackagePath": "staticwebassets\\User\\js\\move-top.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\js\\scrolling-nav.js",
+      "PackagePath": "staticwebassets\\User\\js\\scrolling-nav.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\js\\timer.js",
+      "PackagePath": "staticwebassets\\User\\js\\timer.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\w3layouts-License.txt",
+      "PackagePath": "staticwebassets\\User\\w3layouts-License.txt"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\css\\animate.css\\css\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.css\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\css\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\css\\jquery.mCustomScrollbar.css",
+      "PackagePath": "staticwebassets\\assets\\css\\jquery.mCustomScrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\css\\morris.js\\css\\morris.css",
+      "PackagePath": "staticwebassets\\assets\\css\\morris.js\\css\\morris.css"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\css\\now-ui-dashboard.css",
+      "PackagePath": "staticwebassets\\assets\\css\\now-ui-dashboard.css"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\css\\now-ui-dashboard.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\now-ui-dashboard.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\css\\now-ui-dashboard.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\now-ui-dashboard.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\demo\\demo.css",
+      "PackagePath": "staticwebassets\\assets\\demo\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\demo\\demo.js",
+      "PackagePath": "staticwebassets\\assets\\demo\\demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\fonts\\nucleo-outline.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-outline.eot"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\fonts\\nucleo-outline.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-outline.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\fonts\\nucleo-outline.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-outline.woff"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\fonts\\nucleo-outline.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-outline.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\icon\\icofont\\css\\icofont.css",
+      "PackagePath": "staticwebassets\\assets\\icon\\icofont\\css\\icofont.css"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\icon\\icofont\\fonts\\icofont.eot",
+      "PackagePath": "staticwebassets\\assets\\icon\\icofont\\fonts\\icofont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\icon\\icofont\\fonts\\icofont.svg",
+      "PackagePath": "staticwebassets\\assets\\icon\\icofont\\fonts\\icofont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\icon\\icofont\\fonts\\icofont.ttf",
+      "PackagePath": "staticwebassets\\assets\\icon\\icofont\\fonts\\icofont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\icon\\icofont\\fonts\\icofont.woff",
+      "PackagePath": "staticwebassets\\assets\\icon\\icofont\\fonts\\icofont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\icon\\themify-icons\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\assets\\icon\\themify-icons\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\icon\\themify-icons\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\assets\\icon\\themify-icons\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\icon\\themify-icons\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\assets\\icon\\themify-icons\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\icon\\themify-icons\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\assets\\icon\\themify-icons\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\icon\\themify-icons\\themify-icons.css",
+      "PackagePath": "staticwebassets\\assets\\icon\\themify-icons\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\images\\auth\\Logo-small-bottom.png",
+      "PackagePath": "staticwebassets\\assets\\images\\auth\\Logo-small-bottom.png"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\images\\auth\\logo-dark.png",
+      "PackagePath": "staticwebassets\\assets\\images\\auth\\logo-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\images\\auth\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\auth\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\images\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatar-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\images\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\images\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatar-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\images\\avatar-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatar-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\images\\background.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\images\\bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\images\\flags\\ENGLISH.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\ENGLISH.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\images\\flags\\FRANCE.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\FRANCE.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\images\\flags\\PORTO.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\PORTO.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\images\\flags\\SPAIN.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\SPAIN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\images\\mega-menu\\01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\mega-menu\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\images\\mega-menu\\02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\mega-menu\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\images\\mega-menu\\03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\mega-menu\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\images\\mega-menu\\04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\mega-menu\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\images\\mega-menu\\05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\mega-menu\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\images\\mega-menu\\06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\mega-menu\\06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\images\\pattern2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pattern2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\images\\user.png",
+      "PackagePath": "staticwebassets\\assets\\images\\user.png"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\img\\apple-icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\apple-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\img\\bg5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\img\\header.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\header.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\img\\mike.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\mike.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\img\\now-logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\now-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\js\\SmoothScroll.js",
+      "PackagePath": "staticwebassets\\assets\\js\\SmoothScroll.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\js\\bootstrap-growl.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap-growl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\js\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\js\\classie.js",
+      "PackagePath": "staticwebassets\\assets\\js\\classie.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\js\\classie\\classie.js",
+      "PackagePath": "staticwebassets\\assets\\js\\classie\\classie.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\js\\common-pages.js",
+      "PackagePath": "staticwebassets\\assets\\js\\common-pages.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\js\\core\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\js\\demo-12.js",
+      "PackagePath": "staticwebassets\\assets\\js\\demo-12.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\js\\jquery-slimscroll\\jquery.slimscroll.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-slimscroll\\jquery.slimscroll.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\js\\jquery-ui\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-ui\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\js\\jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\js\\jquery.mousewheel.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.mousewheel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\js\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\js\\modernizr\\css-scrollbars.js",
+      "PackagePath": "staticwebassets\\assets\\js\\modernizr\\css-scrollbars.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\js\\modernizr\\modernizr.js",
+      "PackagePath": "staticwebassets\\assets\\js\\modernizr\\modernizr.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\js\\morris.js\\morris.js",
+      "PackagePath": "staticwebassets\\assets\\js\\morris.js\\morris.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\js\\now-ui-dashboard.js",
+      "PackagePath": "staticwebassets\\assets\\js\\now-ui-dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\js\\now-ui-dashboard.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\now-ui-dashboard.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\js\\now-ui-dashboard.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\now-ui-dashboard.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\js\\pcoded.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pcoded.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\js\\plugins\\bootstrap-notify.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\bootstrap-notify.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\js\\plugins\\chartjs.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\chartjs.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\js\\plugins\\perfect-scrollbar.jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\perfect-scrollbar.jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\js\\popper.js\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\popper.js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\js\\raphael\\raphael.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\raphael\\raphael.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\js\\script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\js\\script.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\script.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\pages\\accordion\\accordion.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\accordion\\accordion.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\pages\\accordion\\accordion.min.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\accordion\\accordion.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\pages\\chart\\morris\\morris-custom-chart.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\chart\\morris\\morris-custom-chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\pages\\dashboard\\amchart\\css\\amchart.css",
+      "PackagePath": "staticwebassets\\assets\\pages\\dashboard\\amchart\\css\\amchart.css"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\pages\\dashboard\\amchart\\css\\export.css",
+      "PackagePath": "staticwebassets\\assets\\pages\\dashboard\\amchart\\css\\export.css"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\pages\\dashboard\\amchart\\js\\amcharts.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\dashboard\\amchart\\js\\amcharts.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\pages\\dashboard\\amchart\\js\\custom-amchart.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\dashboard\\amchart\\js\\custom-amchart.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\pages\\dashboard\\amchart\\js\\export.min.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\dashboard\\amchart\\js\\export.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\pages\\dashboard\\amchart\\js\\images\\dragIconRoundBig.svg",
+      "PackagePath": "staticwebassets\\assets\\pages\\dashboard\\amchart\\js\\images\\dragIconRoundBig.svg"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\pages\\dashboard\\amchart\\js\\images\\dragIconRoundBigH.svg",
+      "PackagePath": "staticwebassets\\assets\\pages\\dashboard\\amchart\\js\\images\\dragIconRoundBigH.svg"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\pages\\dashboard\\amchart\\js\\light.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\dashboard\\amchart\\js\\light.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\pages\\dashboard\\amchart\\js\\serial.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\dashboard\\amchart\\js\\serial.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\pages\\dashboard\\custom-dashboard.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\dashboard\\custom-dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\pages\\google-maps\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\google-maps\\gmaps.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\pages\\google-maps\\jquery.gmaps.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\google-maps\\jquery.gmaps.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\pages\\icon-modal.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\icon-modal.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\pages\\notification\\notification.css",
+      "PackagePath": "staticwebassets\\assets\\pages\\notification\\notification.css"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\pages\\notification\\notification.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\notification\\notification.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\pages\\todo\\todo.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\todo\\todo.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\pages\\widget\\amchart\\amcharts.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\widget\\amchart\\amcharts.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\pages\\widget\\amchart\\amcharts.min.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\widget\\amchart\\amcharts.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\pages\\widget\\amchart\\ammap.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\widget\\amchart\\ammap.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\pages\\widget\\amchart\\ammap.min.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\widget\\amchart\\ammap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\pages\\widget\\amchart\\continentsLow.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\widget\\amchart\\continentsLow.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\pages\\widget\\amchart\\continentsLow.min.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\widget\\amchart\\continentsLow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\pages\\widget\\amchart\\gauge.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\widget\\amchart\\gauge.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\pages\\widget\\amchart\\gauge.min.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\widget\\amchart\\gauge.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\pages\\widget\\amchart\\light.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\widget\\amchart\\light.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\pages\\widget\\amchart\\light.min.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\widget\\amchart\\light.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\pages\\widget\\amchart\\pie.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\widget\\amchart\\pie.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\pages\\widget\\amchart\\pie.min.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\widget\\amchart\\pie.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\pages\\widget\\amchart\\serial.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\widget\\amchart\\serial.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\pages\\widget\\amchart\\serial.min.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\widget\\amchart\\serial.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\pages\\widget\\amchart\\worldLow.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\widget\\amchart\\worldLow.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\pages\\widget\\amchart\\worldLow.min.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\widget\\amchart\\worldLow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\scss\\now-ui-dashboard.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\now-ui-dashboard.scss"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\scss\\now-ui-dashboard\\_alerts.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\now-ui-dashboard\\_alerts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\scss\\now-ui-dashboard\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\now-ui-dashboard\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\scss\\now-ui-dashboard\\_cards.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\now-ui-dashboard\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\scss\\now-ui-dashboard\\_checkboxes-radio.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\now-ui-dashboard\\_checkboxes-radio.scss"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\scss\\now-ui-dashboard\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\now-ui-dashboard\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\scss\\now-ui-dashboard\\_fixed-plugin.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\now-ui-dashboard\\_fixed-plugin.scss"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\scss\\now-ui-dashboard\\_footers.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\now-ui-dashboard\\_footers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\scss\\now-ui-dashboard\\_images.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\now-ui-dashboard\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\scss\\now-ui-dashboard\\_inputs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\now-ui-dashboard\\_inputs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\scss\\now-ui-dashboard\\_misc.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\now-ui-dashboard\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\scss\\now-ui-dashboard\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\now-ui-dashboard\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\scss\\now-ui-dashboard\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\now-ui-dashboard\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\scss\\now-ui-dashboard\\_nucleo-outline.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\now-ui-dashboard\\_nucleo-outline.scss"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\scss\\now-ui-dashboard\\_page-header.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\now-ui-dashboard\\_page-header.scss"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\scss\\now-ui-dashboard\\_responsive.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\now-ui-dashboard\\_responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\scss\\now-ui-dashboard\\_sidebar-and-main-panel.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\now-ui-dashboard\\_sidebar-and-main-panel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\scss\\now-ui-dashboard\\_tables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\now-ui-dashboard\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\scss\\now-ui-dashboard\\_typography.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\now-ui-dashboard\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\scss\\now-ui-dashboard\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\now-ui-dashboard\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\scss\\now-ui-dashboard\\cards\\_card-chart.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\now-ui-dashboard\\cards\\_card-chart.scss"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\scss\\now-ui-dashboard\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\now-ui-dashboard\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\scss\\now-ui-dashboard\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\now-ui-dashboard\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\scss\\now-ui-dashboard\\mixins\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\now-ui-dashboard\\mixins\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\scss\\now-ui-dashboard\\mixins\\_inputs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\now-ui-dashboard\\mixins\\_inputs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\scss\\now-ui-dashboard\\mixins\\_page-header.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\now-ui-dashboard\\mixins\\_page-header.scss"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\scss\\now-ui-dashboard\\mixins\\_transparency.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\now-ui-dashboard\\mixins\\_transparency.scss"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\scss\\now-ui-dashboard\\mixins\\_vendor-prefixes.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\now-ui-dashboard\\mixins\\_vendor-prefixes.scss"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\scss\\now-ui-dashboard\\plugins\\_plugin-animate-bootstrap-notify.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\now-ui-dashboard\\plugins\\_plugin-animate-bootstrap-notify.scss"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\scss\\now-ui-dashboard\\plugins\\_plugin-perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\now-ui-dashboard\\plugins\\_plugin-perfect-scrollbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\uploadsimages\\Newyearcard2.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadsimages\\Newyearcard2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\uploadsimages\\Weddingcard2.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadsimages\\Weddingcard2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\uploadsimages\\Weddingcard3.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadsimages\\Weddingcard3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\uploadsimages\\edited-image.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadsimages\\edited-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\assets\\uploadsimages\\img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadsimages\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\lightbox\\css\\lightbox.min.css",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\css\\lightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\lightbox\\images\\close.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\lightbox\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\lightbox\\images\\next.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\lightbox\\images\\prev.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\lightbox\\js\\lightbox.min.js",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\js\\lightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.E_Project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.E_Project.props",
+      "PackagePath": "build\\E_Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.E_Project.props",
+      "PackagePath": "buildMultiTargeting\\E_Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.E_Project.props",
+      "PackagePath": "buildTransitive\\E_Project.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

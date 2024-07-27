@@ -1,0 +1,103 @@
+﻿@model E_Project.Models.UserTemplateImage
+
+<style>
+	.emailListWrapper {
+		background-color: #fff;
+		border-radius: 5px;
+		margin: 4px;
+		padding: 20px;
+		display: none;
+		justify-content: center;
+		flex-direction: column;
+	}
+
+	.emailsListContainer {
+		display: none;
+
+	}
+
+	#addEmailBtn {
+		background-color: #487eb0;
+		color: #fff;
+	}
+</style>
+
+
+<div class="container" style="padding-top: 50px;">
+	<h1>Send to Relatives</h1>
+	    @if (TempData["Message"] != null)
+    {
+        <div class="alert alert-success">
+            @TempData["Message"]
+        </div>
+    }
+	<div class="row mb-4" style="display: flex;justify-content:center; align-items:center;">
+		<div class="col-lg-8">
+			<img src="data:image/jpeg;base64,@Model.UserTempImage" class="card-img-top" alt="Saved Card" />
+		</div>
+
+		<div class="col-lg-4">
+				<div class="input-group mb-3">
+					<input type="text" id="emailValue" class="form-control" placeholder="Recipient's username"
+						aria-label="Recipient's username" aria-describedby="button-addon2">
+					<button class="btn btn-secondary" id="addEmailBtn">Add Emails</button>
+				</div>
+			<form class="g-3" asp-action="SendCard" asp-controller="Home" method="post">
+				  <input type="hidden" name="emailList" id="hiddenEmailListInpt">
+                <input type="hidden" name="imageId" value="@Model.Id">
+				<div class="emailListWrapper" id="emailListWrapper">
+					<div class="emailsListContainer" id="emailArrayList">
+					</div>
+					<button type="submit" class="btn btn-primary">Send Card to Emails</button>
+				</div>
+
+			</form>
+
+		</div>
+
+	</div>
+</div>
+
+
+<script>
+	let addEmailBtn = document.getElementById("addEmailBtn");
+	let emails = []
+	addEmailBtn.addEventListener('click', (e) =>
+	{
+		e.preventDefault();
+		let emailValue = document.getElementById("emailValue").value;
+
+		if (emailValue != null && emailValue.length > 0) 
+		{
+			emails.push(emailValue);
+
+			let emailListWrapper = document.getElementById("emailListWrapper");
+			let emailArrayList = document.getElementById("emailArrayList");
+			emailArrayList.style.display = "block";
+			emailListWrapper.style.display = "flex";
+			emailArrayList.innerHTML = ``
+			let i = 1;
+			emails.map(item =>
+			{
+				emailArrayList.innerHTML += `<p style="background-color: #00b894;color:#fff;padding:8px;border-radius:5px;margin:5px;">${i}. ${item}</p>`;
+				i++;
+			})
+			let emailLists = emails.join(',');
+			console.log(emailLists);
+			let hiddenEmailListInpt = document.getElementById("hiddenEmailListInpt");
+			hiddenEmailListInpt.value = emailLists;
+			console.log(hiddenEmailListInpt)
+		}
+		else
+		{
+			alert("Please enter email address");
+		}
+
+
+
+
+
+
+	})
+
+</script>

@@ -1,0 +1,273 @@
+﻿@using Microsoft.AspNetCore.Antiforgery
+@inject IAntiforgery Antiforgery
+
+@{
+    Layout = null; // Disable layout for this view
+    var tokens = Antiforgery.GetAndStoreTokens(Context);
+    var requestToken = tokens.RequestToken;
+    var imagePath = ViewBag.ImagePath as string;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        html, body {
+            height: 100%;
+            margin: 0;
+        }
+
+        .full-height {
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .image-editor-container {
+            text-align: center;
+        }
+
+        #imageCanvas {
+            border: 1px solid #ddd;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .btn-custom {
+            margin: 5px;
+        }
+
+        .font-selector, .color-picker, .font-size-selector {
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div class="full-height">
+        <div class="container image-editor-container">
+            <h1 class="my-4">Customise Your Card</h1>
+            <div class="row justify-content-center">
+                <div class="col-md-8">
+                    <canvas id="imageCanvas" class="img-fluid" width="400" height="600"></canvas>
+                    </div>
+                   <div class="col-md-4">
+                        <div class="mt-3">
+                            <input type="text" id="textInput" class="form-control" placeholder="Enter text" oninput="updateText()">
+                        </div>
+                        <div class="mt-3">
+                            <select id="fontSelect" class="form-control font-selector" onchange="updateFont()">
+                                <option value="Verdana">Verdana</option>
+                                <option value="Arial">Arial</option>
+                                <option value="Courier New">Courier New</option>
+                                <option value="Georgia">Georgia</option>
+                                <option value="Times New Roman">Times New Roman</option>
+                                <option value="Tahoma">Tahoma</option>
+                                <option value="Trebuchet MS">Trebuchet MS</option>
+                                <option value="Lucida Console">Lucida Console</option>
+                            </select>
+                        </div>
+                        <div class="mt-3">
+                            <select id="fontSizeSelect" class="form-control font-size-selector" onchange="updateFontSize()">
+                                <option value="10">10px</option>
+                                <option value="14">14px</option>
+                                <option value="18">18px</option>
+                                <option value="24">24px</option>
+                                <option value="30">30px</option>
+                                <option value="36">36px</option>
+                                <option value="48">48px</option>
+                                <option value="60">60px</option>
+                            </select>
+                        </div>
+                        <div class="mt-3">
+                            <input type="color" id="colorPicker" class="form-control color-picker" onchange="updateColor()">
+                        </div>
+                        <div class="mt-3">
+                            <button onclick="addText()" class="btn btn-success btn-custom">Add Text</button>
+                            <button onclick="updateText()" class="btn btn-info btn-custom">Update Text</button>
+                            <button onclick="saveImage()" class="btn btn-primary btn-custom">Save</button>
+                            <button onclick="downloadImage()" class="btn btn-secondary btn-custom">Download</button>
+                        </div>
+                   </div>
+                
+            </div>
+
+
+            <div class="row justify-content-center">
+                <form class="row g-3 mt-5" action="/" method="post">
+                   
+                    
+                        <div class="col-12 mt-3">
+
+                        <input type="submit" class="btn btn-primary" value="Save Image" />
+                        </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    @* <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script> *@
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+    <script>
+        let canvas = document.getElementById('imageCanvas');
+        let ctx = canvas.getContext('2d');
+        let textInput = document.getElementById('textInput');
+        let fontSelect = document.getElementById('fontSelect');
+        let fontSizeSelect = document.getElementById('fontSizeSelect');
+        let colorPicker = document.getElementById('colorPicker');
+        let texts = [];
+        let isDragging = false;
+        let offsetX, offsetY;
+        let draggedTextIndex = null;
+        let imagePath = '@imagePath'; // Use the Razor variable here
+        let img = new Image();
+        img.src = imagePath;
+
+        img.onload = function () {
+            ctx.drawImage(img, 0, 0, canvas.width, canvas.height);
+            redrawCanvas();
+        }
+
+        function updateText() {
+            if (draggedTextIndex !== null) {
+                let textObj = texts[draggedTextIndex];
+                textObj.text = textInput.value;
+                redrawCanvas();
+            }
+        }
+
+        function updateFont() {
+            if (draggedTextIndex !== null) {
+                let textObj = texts[draggedTextIndex];
+                textObj.font = fontSelect.value;
+                redrawCanvas();
+            }
+        }
+
+        function updateFontSize() {
+            if (draggedTextIndex !== null) {
+                let textObj = texts[draggedTextIndex];
+                textObj.fontSize = fontSizeSelect.value;
+                redrawCanvas();
+            }
+        }
+
+        function updateColor() {
+            if (draggedTextIndex !== null) {
+                let textObj = texts[draggedTextIndex];
+                textObj.color = colorPicker.value;
+                redrawCanvas();
+            }
+        }
+
+        function addText() {
+            let textValue = "Add text here";
+            texts.push({
+                text: textValue,
+                font: fontSelect.value,
+                fontSize: fontSizeSelect.value,
+                color: colorPicker.value,
+                x: 100,
+                y: 100
+            });
+            redrawCanvas();
+        }
+
+        function redrawCanvas() {
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+            ctx.drawImage(img, 0, 0, canvas.width, canvas.height);
+            texts.forEach(textObj => {
+                ctx.font = `${textObj.fontSize}px ${textObj.font}`;
+                ctx.fillStyle = textObj.color;
+                ctx.fillText(textObj.text, textObj.x, textObj.y);
+            });
+        }
+
+      function saveImage() {
+    let dataUrl = canvas.toDataURL('image/jpeg');
+    let userId = 4;// get the user id from a hidden field or other source
+
+    console.log(dataUrl);
+    fetch('@Url.Action("SaveEditedImage", "Home")', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+            'RequestVerificationToken': '@requestToken'
+        },
+        body: JSON.stringify({ UserTempImage: dataUrl, UserId: userId})
+    })
+    .then(response => {
+        if (!response.ok) {
+            return response.json().then(err => { throw new Error(err.message); });
+        }
+        return response.json();
+    })
+    .then(data => {
+        if (data.success) {
+            alert('Image saved successfully!');
+        } else {
+            alert('Error saving image: ' + data.message);
+        }
+    })
+    .catch(error => {
+        alert('Error: ' + error.message);
+    });
+}
+
+
+        function downloadImage() {
+            let dataUrl = canvas.toDataURL('image/jpeg');
+            let link = document.createElement('a');
+            link.href = dataUrl;
+            link.download = 'edited-image.jpg';
+            link.click();
+        }
+
+        canvas.addEventListener('mousedown', function (e) {
+            let mouseX = e.offsetX;
+            let mouseY = e.offsetY;
+            texts.forEach((textObj, index) => {
+                let textWidth = ctx.measureText(textObj.text).width;
+                if (mouseX >= textObj.x && mouseX <= textObj.x + textWidth &&
+                    mouseY >= textObj.y - textObj.fontSize && mouseY <= textObj.y) {
+                    isDragging = true;
+                    draggedTextIndex = index;
+                    offsetX = mouseX - textObj.x;
+                    offsetY = mouseY - textObj.y;
+                    textInput.value = textObj.text;
+                    fontSelect.value = textObj.font;
+                    fontSizeSelect.value = textObj.fontSize;
+                    colorPicker.value = textObj.color;
+                }
+            });
+        });
+
+        canvas.addEventListener('mousemove', function (e) {
+            if (isDragging && draggedTextIndex !== null) {
+                let textObj = texts[draggedTextIndex];
+                textObj.x = e.offsetX - offsetX;
+                textObj.y = e.offsetY - offsetY;
+                redrawCanvas();
+            }
+        });
+
+        canvas.addEventListener('mouseup', function () {
+            isDragging = false;
+        });
+
+        canvas.addEventListener('mouseleave', function () {
+            isDragging = false;
+        });
+
+
+      
+
+
+
+    </script>
+</body>
+</html>

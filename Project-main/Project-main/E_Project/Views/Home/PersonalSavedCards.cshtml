@@ -1,0 +1,33 @@
+﻿@model List<E_Project.Models.UserTemplateImage>
+
+
+    <div id="templates" class="prices w3-agilefireworks jarallax">
+	<div class="pricesw3-agileits">
+		<div class="container">
+			<h3 class="w3stitle w3stitle1">Our <span> Cards</span></h3>
+
+  @foreach (var image in Model)
+            {
+				<div class="prices-agileinfo">
+					<div class="col-sm-3 col-xs-6 price-w3lgrids">
+						<div class="pricing pricing-two">
+							<div class="card" style="width: 18rem;">
+								<img src="data:image/jpeg;base64,@image.UserTempImage" style="width:45vh;" class="card-img-top" alt="...">
+								<hr />
+								<div class="card-body">
+									<h4 class="card-text" style="color: white;">heading</h4>
+									<hr />
+									<a asp-controller="Home" asp-action="SendToRelatives" asp-route-id="@image.Id" class="btn btn-primary">Send to Relatives</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+}
+
+
+				<div class="clearfix"> </div>
+			</div>
+		</div>
+	</div>
+

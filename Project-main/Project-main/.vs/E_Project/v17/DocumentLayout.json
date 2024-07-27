@@ -1,0 +1,428 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4944AE90-DB5B-467E-9934-08FD2AF4CCCE}|E_Project\\E_Project.csproj|c:\\users\\subhan khan\\downloads\\project-main\\project-main\\project-main\\e_project\\views\\admin\\subscribers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4944AE90-DB5B-467E-9934-08FD2AF4CCCE}|E_Project\\E_Project.csproj|solutionrelative:e_project\\views\\admin\\subscribers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4944AE90-DB5B-467E-9934-08FD2AF4CCCE}|E_Project\\E_Project.csproj|c:\\users\\subhan khan\\downloads\\project-main\\project-main\\project-main\\e_project\\models\\subscriptiondetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4944AE90-DB5B-467E-9934-08FD2AF4CCCE}|E_Project\\E_Project.csproj|solutionrelative:e_project\\models\\subscriptiondetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4944AE90-DB5B-467E-9934-08FD2AF4CCCE}|E_Project\\E_Project.csproj|c:\\users\\subhan khan\\downloads\\project-main\\project-main\\project-main\\e_project\\views\\admin\\feedback.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4944AE90-DB5B-467E-9934-08FD2AF4CCCE}|E_Project\\E_Project.csproj|solutionrelative:e_project\\views\\admin\\feedback.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4944AE90-DB5B-467E-9934-08FD2AF4CCCE}|E_Project\\E_Project.csproj|c:\\users\\subhan khan\\downloads\\project-main\\project-main\\project-main\\e_project\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4944AE90-DB5B-467E-9934-08FD2AF4CCCE}|E_Project\\E_Project.csproj|solutionrelative:e_project\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4944AE90-DB5B-467E-9934-08FD2AF4CCCE}|E_Project\\E_Project.csproj|c:\\users\\subhan khan\\downloads\\project-main\\project-main\\project-main\\e_project\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4944AE90-DB5B-467E-9934-08FD2AF4CCCE}|E_Project\\E_Project.csproj|solutionrelative:e_project\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4944AE90-DB5B-467E-9934-08FD2AF4CCCE}|E_Project\\E_Project.csproj|c:\\users\\subhan khan\\downloads\\project-main\\project-main\\project-main\\e_project\\views\\admin\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4944AE90-DB5B-467E-9934-08FD2AF4CCCE}|E_Project\\E_Project.csproj|solutionrelative:e_project\\views\\admin\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4944AE90-DB5B-467E-9934-08FD2AF4CCCE}|E_Project\\E_Project.csproj|c:\\users\\subhan khan\\downloads\\project-main\\project-main\\project-main\\e_project\\views\\shared\\admin_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4944AE90-DB5B-467E-9934-08FD2AF4CCCE}|E_Project\\E_Project.csproj|solutionrelative:e_project\\views\\shared\\admin_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4944AE90-DB5B-467E-9934-08FD2AF4CCCE}|E_Project\\E_Project.csproj|c:\\users\\subhan khan\\downloads\\project-main\\project-main\\project-main\\e_project\\views\\shared\\add_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4944AE90-DB5B-467E-9934-08FD2AF4CCCE}|E_Project\\E_Project.csproj|solutionrelative:e_project\\views\\shared\\add_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4944AE90-DB5B-467E-9934-08FD2AF4CCCE}|E_Project\\E_Project.csproj|c:\\users\\subhan khan\\downloads\\project-main\\project-main\\project-main\\e_project\\views\\admin\\template.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4944AE90-DB5B-467E-9934-08FD2AF4CCCE}|E_Project\\E_Project.csproj|solutionrelative:e_project\\views\\admin\\template.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4944AE90-DB5B-467E-9934-08FD2AF4CCCE}|E_Project\\E_Project.csproj|c:\\users\\subhan khan\\downloads\\project-main\\project-main\\project-main\\e_project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4944AE90-DB5B-467E-9934-08FD2AF4CCCE}|E_Project\\E_Project.csproj|solutionrelative:e_project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4944AE90-DB5B-467E-9934-08FD2AF4CCCE}|E_Project\\E_Project.csproj|c:\\users\\subhan khan\\downloads\\project-main\\project-main\\project-main\\e_project\\views\\home\\personalsavedcards.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4944AE90-DB5B-467E-9934-08FD2AF4CCCE}|E_Project\\E_Project.csproj|solutionrelative:e_project\\views\\home\\personalsavedcards.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4944AE90-DB5B-467E-9934-08FD2AF4CCCE}|E_Project\\E_Project.csproj|c:\\users\\subhan khan\\downloads\\project-main\\project-main\\project-main\\e_project\\models\\recipientemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4944AE90-DB5B-467E-9934-08FD2AF4CCCE}|E_Project\\E_Project.csproj|solutionrelative:e_project\\models\\recipientemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4944AE90-DB5B-467E-9934-08FD2AF4CCCE}|E_Project\\E_Project.csproj|c:\\users\\subhan khan\\downloads\\project-main\\project-main\\project-main\\e_project\\views\\home\\sendtorelatives.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4944AE90-DB5B-467E-9934-08FD2AF4CCCE}|E_Project\\E_Project.csproj|solutionrelative:e_project\\views\\home\\sendtorelatives.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4944AE90-DB5B-467E-9934-08FD2AF4CCCE}|E_Project\\E_Project.csproj|c:\\users\\subhan khan\\downloads\\project-main\\project-main\\project-main\\e_project\\data\\fullwebsitecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4944AE90-DB5B-467E-9934-08FD2AF4CCCE}|E_Project\\E_Project.csproj|solutionrelative:e_project\\data\\fullwebsitecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4944AE90-DB5B-467E-9934-08FD2AF4CCCE}|E_Project\\E_Project.csproj|c:\\users\\subhan khan\\downloads\\project-main\\project-main\\project-main\\e_project\\models\\usertemplateimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4944AE90-DB5B-467E-9934-08FD2AF4CCCE}|E_Project\\E_Project.csproj|solutionrelative:e_project\\models\\usertemplateimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_AM0E9BD_SQLEXPRESS/Full_Website/Subhan_Computer/SqlTable/dbo.CanvasImages.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_AM0E9BD_SQLEXPRESS/Full_Website/Subhan_Computer/SqlTable/dbo.sentEmails.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4944AE90-DB5B-467E-9934-08FD2AF4CCCE}|E_Project\\E_Project.csproj|c:\\users\\subhan khan\\downloads\\project-main\\project-main\\project-main\\e_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4944AE90-DB5B-467E-9934-08FD2AF4CCCE}|E_Project\\E_Project.csproj|solutionrelative:e_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4944AE90-DB5B-467E-9934-08FD2AF4CCCE}|E_Project\\E_Project.csproj|c:\\users\\subhan khan\\downloads\\project-main\\project-main\\project-main\\e_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4944AE90-DB5B-467E-9934-08FD2AF4CCCE}|E_Project\\E_Project.csproj|solutionrelative:e_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4944AE90-DB5B-467E-9934-08FD2AF4CCCE}|E_Project\\E_Project.csproj|c:\\users\\subhan khan\\downloads\\project-main\\project-main\\project-main\\e_project\\views\\home\\editimage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4944AE90-DB5B-467E-9934-08FD2AF4CCCE}|E_Project\\E_Project.csproj|solutionrelative:e_project\\views\\home\\editimage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4944AE90-DB5B-467E-9934-08FD2AF4CCCE}|E_Project\\E_Project.csproj|c:\\users\\subhan khan\\downloads\\project-main\\project-main\\project-main\\e_project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4944AE90-DB5B-467E-9934-08FD2AF4CCCE}|E_Project\\E_Project.csproj|solutionrelative:e_project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4944AE90-DB5B-467E-9934-08FD2AF4CCCE}|E_Project\\E_Project.csproj|c:\\users\\subhan khan\\downloads\\project-main\\project-main\\project-main\\e_project\\views\\admin\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4944AE90-DB5B-467E-9934-08FD2AF4CCCE}|E_Project\\E_Project.csproj|solutionrelative:e_project\\views\\admin\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4944AE90-DB5B-467E-9934-08FD2AF4CCCE}|E_Project\\E_Project.csproj|c:\\users\\subhan khan\\downloads\\project-main\\project-main\\project-main\\e_project\\views\\admin\\updatetemplate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4944AE90-DB5B-467E-9934-08FD2AF4CCCE}|E_Project\\E_Project.csproj|solutionrelative:e_project\\views\\admin\\updatetemplate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4944AE90-DB5B-467E-9934-08FD2AF4CCCE}|E_Project\\E_Project.csproj|c:\\users\\subhan khan\\downloads\\project-main\\project-main\\project-main\\e_project\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4944AE90-DB5B-467E-9934-08FD2AF4CCCE}|E_Project\\E_Project.csproj|solutionrelative:e_project\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4944AE90-DB5B-467E-9934-08FD2AF4CCCE}|E_Project\\E_Project.csproj|c:\\users\\subhan khan\\downloads\\project-main\\project-main\\project-main\\e_project\\wwwroot\\user\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4944AE90-DB5B-467E-9934-08FD2AF4CCCE}|E_Project\\E_Project.csproj|solutionrelative:e_project\\wwwroot\\user\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Subhan Khan\\source\\repos\\E_Project\\E_Project\\Models\\FullWebsiteContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "dbo.CanvasImages [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_AM0E9BD_SQLEXPRESS/Full_Website/Subhan_Computer/SqlTable/dbo.CanvasImages.sql",
+              "ToolTip": "dbo.CanvasImages [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-21T16:51:10.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "E_Project\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "E_Project\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAMoAAAAAAAAAAAAAANYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T12:45:35.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Feedback.cshtml",
+              "DocumentMoniker": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\Views\\Admin\\Feedback.cshtml",
+              "RelativeDocumentMoniker": "E_Project\\Views\\Admin\\Feedback.cshtml",
+              "ToolTip": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\Views\\Admin\\Feedback.cshtml",
+              "RelativeToolTip": "E_Project\\Views\\Admin\\Feedback.cshtml",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAAALEAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T16:34:58.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Users.cshtml",
+              "DocumentMoniker": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\Views\\Admin\\Users.cshtml",
+              "RelativeDocumentMoniker": "E_Project\\Views\\Admin\\Users.cshtml",
+              "ToolTip": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\Views\\Admin\\Users.cshtml",
+              "RelativeToolTip": "E_Project\\Views\\Admin\\Users.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAFAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T08:06:49.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\Models\\Feedback.cs",
+              "RelativeDocumentMoniker": "E_Project\\Models\\Feedback.cs",
+              "ToolTip": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\Models\\Feedback.cs",
+              "RelativeToolTip": "E_Project\\Models\\Feedback.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:12:36.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Subscribers.cshtml",
+              "DocumentMoniker": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\Views\\Admin\\Subscribers.cshtml",
+              "RelativeDocumentMoniker": "E_Project\\Views\\Admin\\Subscribers.cshtml",
+              "ToolTip": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\Views\\Admin\\Subscribers.cshtml",
+              "RelativeToolTip": "E_Project\\Views\\Admin\\Subscribers.cshtml",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAAAJ0AAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T16:45:49.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SubscriptionDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\Models\\SubscriptionDetail.cs",
+              "RelativeDocumentMoniker": "E_Project\\Models\\SubscriptionDetail.cs",
+              "ToolTip": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\Models\\SubscriptionDetail.cs",
+              "RelativeToolTip": "E_Project\\Models\\SubscriptionDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:34:48.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Add_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\Views\\Shared\\Add_Layout.cshtml",
+              "RelativeDocumentMoniker": "E_Project\\Views\\Shared\\Add_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\Views\\Shared\\Add_Layout.cshtml",
+              "RelativeToolTip": "E_Project\\Views\\Shared\\Add_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T08:05:31.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Admin_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\Views\\Shared\\Admin_Layout.cshtml",
+              "RelativeDocumentMoniker": "E_Project\\Views\\Shared\\Admin_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\Views\\Shared\\Admin_Layout.cshtml",
+              "RelativeToolTip": "E_Project\\Views\\Shared\\Admin_Layout.cshtml",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T08:05:35.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FullWebsiteContext.cs",
+              "DocumentMoniker": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\Data\\FullWebsiteContext.cs",
+              "RelativeDocumentMoniker": "E_Project\\Data\\FullWebsiteContext.cs",
+              "ToolTip": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\Data\\FullWebsiteContext.cs",
+              "RelativeToolTip": "E_Project\\Data\\FullWebsiteContext.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAqwCIAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T17:35:42.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PersonalSavedCards.cshtml",
+              "DocumentMoniker": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\Views\\Home\\PersonalSavedCards.cshtml",
+              "RelativeDocumentMoniker": "E_Project\\Views\\Home\\PersonalSavedCards.cshtml",
+              "ToolTip": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\Views\\Home\\PersonalSavedCards.cshtml",
+              "RelativeToolTip": "E_Project\\Views\\Home\\PersonalSavedCards.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAACFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T17:53:21.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Template.cshtml",
+              "DocumentMoniker": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\Views\\Admin\\Template.cshtml",
+              "RelativeDocumentMoniker": "E_Project\\Views\\Admin\\Template.cshtml",
+              "ToolTip": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\Views\\Admin\\Template.cshtml",
+              "RelativeToolTip": "E_Project\\Views\\Admin\\Template.cshtml",
+              "ViewState": "AQIAALkAAAAAAAAAAAAAAJ0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T13:38:31.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SendToRelatives.cshtml",
+              "DocumentMoniker": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\Views\\Home\\SendToRelatives.cshtml",
+              "RelativeDocumentMoniker": "E_Project\\Views\\Home\\SendToRelatives.cshtml",
+              "ToolTip": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\Views\\Home\\SendToRelatives.cshtml",
+              "RelativeToolTip": "E_Project\\Views\\Home\\SendToRelatives.cshtml",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAAC8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T16:52:45.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "E_Project\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "E_Project\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAKcAAAAAAAAAAAAWwLEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T14:10:56.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RecipientEmail.cs",
+              "DocumentMoniker": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\Models\\RecipientEmail.cs",
+              "RelativeDocumentMoniker": "E_Project\\Models\\RecipientEmail.cs",
+              "ToolTip": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\Models\\RecipientEmail.cs",
+              "RelativeToolTip": "E_Project\\Models\\RecipientEmail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T17:38:44.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserTemplateImage.cs",
+              "DocumentMoniker": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\Models\\UserTemplateImage.cs",
+              "RelativeDocumentMoniker": "E_Project\\Models\\UserTemplateImage.cs",
+              "ToolTip": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\Models\\UserTemplateImage.cs",
+              "RelativeToolTip": "E_Project\\Models\\UserTemplateImage.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T16:53:56.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "dbo.sentEmails [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_AM0E9BD_SQLEXPRESS/Full_Website/Subhan_Computer/SqlTable/dbo.sentEmails.sql",
+              "ToolTip": "dbo.sentEmails [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-21T16:51:18.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\appsettings.json",
+              "RelativeDocumentMoniker": "E_Project\\appsettings.json",
+              "ToolTip": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\appsettings.json",
+              "RelativeToolTip": "E_Project\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-21T16:44:57.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\Views\\Admin\\contact.cshtml",
+              "RelativeDocumentMoniker": "E_Project\\Views\\Admin\\contact.cshtml",
+              "ToolTip": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\Views\\Admin\\contact.cshtml",
+              "RelativeToolTip": "E_Project\\Views\\Admin\\contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T16:35:12.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\Program.cs",
+              "RelativeDocumentMoniker": "E_Project\\Program.cs",
+              "ToolTip": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\Program.cs",
+              "RelativeToolTip": "E_Project\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T16:44:52.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EditImage.cshtml",
+              "DocumentMoniker": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\Views\\Home\\EditImage.cshtml",
+              "RelativeDocumentMoniker": "E_Project\\Views\\Home\\EditImage.cshtml",
+              "ToolTip": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\Views\\Home\\EditImage.cshtml",
+              "RelativeToolTip": "E_Project\\Views\\Home\\EditImage.cshtml",
+              "ViewState": "AQIAAAsBAAAAAAAAAAAAABEBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T10:34:31.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "E_Project\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "E_Project\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAJQBAAAAAAAAAAAwwJoBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T10:22:42.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UpdateTemplate.cshtml",
+              "DocumentMoniker": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\Views\\Admin\\UpdateTemplate.cshtml",
+              "RelativeDocumentMoniker": "E_Project\\Views\\Admin\\UpdateTemplate.cshtml",
+              "ToolTip": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\Views\\Admin\\UpdateTemplate.cshtml",
+              "RelativeToolTip": "E_Project\\Views\\Admin\\UpdateTemplate.cshtml",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAAAC0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T13:09:02.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "E_Project\\Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "E_Project\\Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T16:32:55.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\css\\style.css",
+              "RelativeDocumentMoniker": "E_Project\\wwwroot\\User\\css\\style.css",
+              "ToolTip": "C:\\Users\\Subhan Khan\\Downloads\\Project-main\\Project-main\\Project-main\\E_Project\\wwwroot\\User\\css\\style.css",
+              "RelativeToolTip": "E_Project\\wwwroot\\User\\css\\style.css",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAACgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-19T16:25:00.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FullWebsiteContext.cs",
+              "DocumentMoniker": "C:\\Users\\Subhan Khan\\source\\repos\\E_Project\\E_Project\\Models\\FullWebsiteContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\E_Project\\E_Project\\Models\\FullWebsiteContext.cs",
+              "ToolTip": "C:\\Users\\Subhan Khan\\source\\repos\\E_Project\\E_Project\\Models\\FullWebsiteContext.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\E_Project\\E_Project\\Models\\FullWebsiteContext.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T13:39:59.811Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
